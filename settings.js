@@ -13,7 +13,7 @@ global.owner = process.env.OWNER_NUMBER  || '94710632860' ;  // ADD YOUR NUMBER 
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=TEtmABqa#HOftYzF4EWIPTKscWdQmjC6R7H_asGzeJp7uIM0Dk1E' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
-MODERATORS : process.env.MODERATORS === undefined ? "94710632860" : process.env.MODERATORS ,    
+MODERATORS : process.env.MODERATORS === undefined ? "94772801923,94787820101" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
 OWNER_NAME: process.env.OWNER_NAME || 'VAJIRA' ,
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,
